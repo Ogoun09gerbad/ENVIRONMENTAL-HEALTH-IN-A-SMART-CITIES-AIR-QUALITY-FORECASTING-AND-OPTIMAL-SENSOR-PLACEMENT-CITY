@@ -100,4 +100,5 @@ I(S) = Σ[j∈V] max[i∈S] [exp(-d(i,j)²/2r²) · w(j)]
 
 *Left: Original deployment with 143 sensors. Right: Optimized deployment with 20 sensors achieving 63% of maximum information.*
 
+https://www.canva.com/design/DAG_MAwiXqI/S7Pir76svSiM9bkZ-plwpg/edit?utm_content=DAG_MAwiXqI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ---
