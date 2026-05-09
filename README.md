@@ -1,3 +1,10 @@
+[![Python](https://img.shields.io/badge/Python-3.10-blue)](https://python.org)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org)
+[![Dataset](https://img.shields.io/badge/Data-sensors.AFRICA-green)](https://sensors.africa)
+
+> **Key result**: 20 optimally placed sensors replace 143 stations while capturing 63% of
+> maximum pollution information — saving **$6.15M** in deployment cost.
+
 ## ENVIRONMENTAL-HEALTH-IN-A-SMART-CITIES-AIR-QUALITY-FORECASTING-AND-OPTIMAL-SENSOR-PLACEMENT-CITY
 THIS PROJECT PROPOSES A DATA-DRIVEN FRAMEWORK THAT COMBINES POLLUTION FORECASTING WITH OPTIMAL SENSOR PLACEMENT TO MAXIMIZE PUBLIC HEALTH IMPACT UNDER LIMITED BUDGETS.
 # Guide Complet : Publier votre Projet sur GitHub
